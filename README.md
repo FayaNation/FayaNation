@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FayaNation
 - 👀 I’m interested red teaming
-- 🌱 I’m currently learning computer studies in high school
+- 🌱 I’m currently learning computer science and software engineering in Botswana International University of Science and Technology
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me fayamaan7@gmail.com
 
